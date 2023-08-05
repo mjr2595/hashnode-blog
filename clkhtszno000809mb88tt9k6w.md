@@ -10,7 +10,7 @@ tags: podcast, youtube, bootcamp
 
 Sorry for the horribly pixelated pic... (edit: uploaded better pic)
 
-This was pretty cool. I have been familiar with \[DonTheDeveloper\]([https://www.youtube.com/@DonTheDeveloper/featured](https://www.youtube.com/@DonTheDeveloper/featured)) for a bit. I actually watched a couple of his videos about Nucamp before making my decision to attend. So it was a little surreal to get hit up in DM on LinkedIn by Don asking if I'd like to be on the podcast. I legit thought it was spam.
+This was pretty cool. I have been familiar with [DonTheDeveloper](https://www.youtube.com/@DonTheDeveloper/featured) for a bit. I actually watched a couple of his videos about Nucamp before making my decision to attend. So it was a little surreal to get hit up in DM on LinkedIn by Don asking if I'd like to be on the podcast. I legit thought it was spam.
 
 But yeah, I had a good time! Hopefully, this video can help someone with their bootcamp selection.
 
